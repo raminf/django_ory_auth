@@ -23,7 +23,7 @@ classifiers=[
 python = "^3.7"
 requests = "*"
 Django = ">3"
-urllib3 = "^1.26.9"
+urllib3 = "^2.2.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
